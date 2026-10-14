@@ -19,7 +19,7 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: nuelfell0ff
+          username: aobaloluwa
           options: theme=tokyo-night&hide_border=true&custom_title=Obaloluwa%20Emmanuel%20Ajayi's%20Contribution%20Graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
