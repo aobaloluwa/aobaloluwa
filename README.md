@@ -92,7 +92,7 @@ with modern web technologies.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=aobaloluwa&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
@@ -103,7 +103,7 @@ with modern web technologies.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/nuelfell0ff/nuelfell0ff/output/activity-graph.svg"
+    src="https://raw.githubusercontent.com/aobaloluwa/aobalolowa/output/activity-graph.svg"
     alt="Obaloluwa Emmanuel Ajayi's GitHub Contribution Graph"
     width="100%"
   />
