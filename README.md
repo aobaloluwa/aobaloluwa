@@ -61,7 +61,7 @@ with modern web technologies.
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify, androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify, android" />
 </p>
 
 ---
